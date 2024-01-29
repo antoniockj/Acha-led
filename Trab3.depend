@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1699444356 source:c:\users\administrator\desktop\trab3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1699444576 c:\users\administrator\desktop\trab3\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1699444586 c:\users\administrator\desktop\trab3\imagem.h
+
+1702341965 c:\users\administrator\desktop\trab3\trabalho3.h
+	"imagem.h"
+
+1699444648 source:c:\users\administrator\desktop\trab3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1702333355 source:c:\users\administrator\desktop\trab3\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1702342234 source:c:\users\administrator\desktop\trab3\trabalho3.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho3.h"
+
